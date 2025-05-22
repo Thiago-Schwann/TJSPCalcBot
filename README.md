@@ -3,7 +3,7 @@
 ##AI Support Assistant
 A simple Python application with a graphical interface (CustomTkinter), developed to assist with ticket resolution based on information extracted from PDF files. It uses the Groq API with the Llama 4 model to automatically generate responses and runs in the background using threads for better performance.
 
-##📌 Features
+## 📌 Features
 ✅ Intuitive graphical interface (CustomTkinter)
 
 ✅ PDF loading and reading
@@ -14,16 +14,18 @@ A simple Python application with a graphical interface (CustomTkinter), develope
 
 ✅ Secure API key management using dotenv
 
-##⚙️ How it works
-1.Select a PDF file containing relevant information.
+## ⚙️ How it works
 
-2.The program loads and processes the PDF content.
+1. Select a PDF file containing relevant information.
 
-3.Type your question into the interface.
+2. The program loads and processes the PDF content.
 
-4.The AI automatically responds based on the PDF information.
+3. Type your question into the interface.
 
-##🛠️ Technologies Used
+4. The AI automatically responds based on the PDF information.
+
+## 🛠️ Technologies Used
+
 ✅ Python
 
 ✅ CustomTkinter (GUI)
