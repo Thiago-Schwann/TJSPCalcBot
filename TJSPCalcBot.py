@@ -47,7 +47,7 @@ def enviar_mensagem():
 def escolher_fonte(tipo):
     def tarefa_carregar():
         global documento
-        status.configure(text="Carregando e resumindo PDF...")
+        status.configure(text="Carregando PDF...")
         if tipo == "pdf":
             documento = carrega_pdf()
         if documento:
