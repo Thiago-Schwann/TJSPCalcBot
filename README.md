@@ -1,6 +1,6 @@
 # TJSPCalcBot
 
-##AI Support Assistant
+## AI Support Assistant
 A simple Python application with a graphical interface (CustomTkinter), developed to assist with ticket resolution based on information extracted from PDF files. It uses the Groq API with the Llama 4 model to automatically generate responses and runs in the background using threads for better performance.
 
 ## 📌 Features
