@@ -64,7 +64,7 @@ app.geometry("700x600")
 titulo = ctk.CTkLabel(app, text="Assistente de Suporte IA", font=ctk.CTkFont(size=24, weight="bold"))
 titulo.pack(pady=10)
 
-status = ctk.CTkLabel(app, text="🔍 Nenhuma fonte carregada ainda.", text_color="gray")
+status = ctk.CTkLabel(app, text="Nenhuma fonte carregada ainda.", text_color="gray")
 status.pack()
 
 frame_botoes = ctk.CTkFrame(app)
